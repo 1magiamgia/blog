@@ -1,4 +1,3 @@
-<script type="text/javascript">
 window.jQuery || document.write('<script src="http://jquery.com/jquery-wp-content/themes/jquery/js/jquery-1.11.2.min.js"><\/script>');
 (function(d, s, a) {
     var b, fjs = d.getElementsByTagName(s)[0];
@@ -212,4 +211,3 @@ $(document).ready(function() {
     })
 });
 document.write("<style type=\"text/css\">#chat_f_b_smal{padding-left: 32px;} #b-c-facebook .chat-f-b, #b-c-facebook .chat-f-b label{color:#fff;font-weight:normal;} .title-f-chat-icon{left: 12px; top: 10px; position: absolute; font-size: 18px; color: #fff; margin: 0px;} .msg_b{text-align:left;}</style>");
-</script>
